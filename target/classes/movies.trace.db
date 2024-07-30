@@ -1,0 +1,27 @@
+2024-07-29 14:55:22 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into movielist (movieName,leadActor) [*], (?,?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+insert into movielist (movieName,leadActor) , (?,?) [42001-214]
+2024-07-29 14:55:25 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update movielist set movieName=?, [*]where movieId=?"; expected "identifier"; SQL statement:
+update movielist set movieName=?, where movieId=? [42001-214]
+2024-07-29 14:55:26 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update movielist set movieName=?, [*]where movieId=?"; expected "identifier"; SQL statement:
+update movielist set movieName=?, where movieId=? [42001-214]
+2024-07-29 15:01:16 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update movielist set movieName=?, [*]where movieId=?"; expected "identifier"; SQL statement:
+update movielist set movieName=?, where movieId=? [42001-214]
+2024-07-29 15:01:19 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update movielist set movieName=?, [*]where movieId=?"; expected "identifier"; SQL statement:
+update movielist set movieName=?, where movieId=? [42001-214]
+2024-07-29 15:14:27 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update movielist set movieName=?, [*]where movieId=?"; expected "identifier"; SQL statement:
+update movielist set movieName=?, where movieId=? [42001-214]
+2024-07-29 15:14:28 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update movielist set movieName=?, [*]where movieId=?"; expected "identifier"; SQL statement:
+update movielist set movieName=?, where movieId=? [42001-214]
+2024-07-29 17:19:14 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update movielist set movieName=?, [*]where movieId=?"; expected "identifier"; SQL statement:
+update movielist set movieName=?, where movieId=? [42001-214]
+2024-07-29 17:19:17 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update movielist set movieName=?, [*]where movieId=?"; expected "identifier"; SQL statement:
+update movielist set movieName=?, where movieId=? [42001-214]
